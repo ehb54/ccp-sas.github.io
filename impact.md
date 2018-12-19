@@ -31,7 +31,7 @@ title:  Impact
 - J. Zhiguang, and J. Chen. Necessity of High-Resolution for Coarse-Grained Modeling of Flexible Proteins. J. Comp. Chem., 37(18), 1725-1733, 2016.
 - M. Green, L. Hatter, E. Brookes, P. Soultanas, and D. J. Scott. Defining the Intrinsically Disordered C-Terminal Domain of SSB Reveals DNA-Mediated Compaction. J. Mol. Biol., 428(2), 357–364, 2016.
 - H. Zahid, L. Miah, A.M. Lau, L. Brochard, D. Hati, T. T. T Bui, A. F. Drake, J. Gor, S. J. Perkins and L. C. McDermott. Zinc-induced oligomerisation of zinc a2 glycoprotein reveals multiple fatty acid binding sites. Biochem. J. 473, 43-54, 2016.
-- C. A. Castaneda, A. Chaturvedi, C. M. Camara, J. E. Curtis, S. Krueger, and D. Fushman. Linkage-specific conformational ensembles of non-canonical polyubiquitin chains. Phys. Chem. Chem. Phys., 18, 5771-5788, 2016. Structure Preview article
+- C. A. Castaneda, A. Chaturvedi, C. M. Camara, J. E. Curtis, S. Krueger, and D. Fushman. <i>Phys. Chem. Chem. Phys.</i>, **18**, 5771-5788, 2016. DOI: [10.1039/C5CP04601G](https://doi.org/10.1039/C5CP04601G)
 - C. A. Castaneda, E. Dixon, O. Walker, A. Chaturvedi, M. A. Nakasone, J. E. Curtis, M. R. Reed, S. Krueger, T. A. Cropp, and D. Fushman. *Structure*, **24**(4), 423- 436, 2016. DOI: [10.1016/j.str.2016.01.007](https://doi.org/10.1016/j.str.2016.01.007)
 - K. H. Lee, and J. Chen. *J. Comp. Chem.*, **37**(6), 550-557, 2016. DOI: [10.1002/jcc.23957](https://doi.org/10.1002/jcc.23957)
 - E. H. Brookes, A. Kapoor, P. Patra, S. Marru, R. Singh, and M. Pierce. *Concurrency and Computation: Practice and Experience*, **28**(7), 1960-1970, 2016. DOI: [10.1002/cpe.3689](https://doi.org/10.1002/cpe.3689)
