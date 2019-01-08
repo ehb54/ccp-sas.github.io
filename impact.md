@@ -35,3 +35,15 @@ title:  Impact
 - C. A. Castaneda, E. Dixon, O. Walker, A. Chaturvedi, M. A. Nakasone, J. E. Curtis, M. R. Reed, S. Krueger, T. A. Cropp, and D. Fushman. *Structure*, **24**(4), 423- 436, 2016. DOI: [10.1016/j.str.2016.01.007](https://doi.org/10.1016/j.str.2016.01.007)
 - K. H. Lee, and J. Chen. *J. Comp. Chem.*, **37**(6), 550-557, 2016. DOI: [10.1002/jcc.23957](https://doi.org/10.1002/jcc.23957)
 - E. H. Brookes, A. Kapoor, P. Patra, S. Marru, R. Singh, and M. Pierce. *Concurrency and Computation: Practice and Experience*, **28**(7), 1960-1970, 2016. DOI: [10.1002/cpe.3689](https://doi.org/10.1002/cpe.3689)
+- N. R. Zaccai, C. W. SAndlin, J. T. Hoopes, J. E. Curtis, P. J. Fleming, K. G. Fleming, and S. Krueger. *Methods Enzymol.*, **566**, 159-210, 2016. DOI: [10.1016/bs.mie.2015.06.041](https://doi.org/10.1016/bs.mie.2015.06.041)
+
+**2015**
+
+- G. K. Hui, D. W. Wright, O. L. Vennard, L. E. Rayner, M. Pang, S. C. Yeo, J. Gor, K. Molyneux, J. Barratt, and S. J. Perkins. *Biochem. J.*, **471**(2), 167-185, DOI: [10.1042/BJ20150612](https://doi.org/10.1042/BJ20150612)
+- B. J. Tarasevich, J. S. Philo, N. K. Maluf, S. Krueger, G. W. Buchko, G. Lin, and W. J. Shaw. *J. Struct. Biol.*, **190**(1), 81-91, 2015. DOI: [10.1016/j.jsb.2014.10.007](https://doi.org/10.1016/j.jsb.2014.10.007)
+- E. H. Brookes, N. Anjum, J. E. Curtis, S. Marru, R. Singh, and M. Pierce. *Concurrency and Computation: Practice and Experience*, **27**(16), 4292-4303, 2015. DOI: [10.1002/cpe.3519](https://doi.org/10.1002/cpe.3519)
+- D. W. Wright, R. Nan, G. K. Hui, J. E. Curtis, E. H. Brookes, and S. J. Perkins. *Biophys. J.*, **108**(2), 191A,2015. DOI: [10.1016/j.bpj.2014.11.1055](https://doi.org/10.1016/j.bpj.2014.11.1055)
+- L. E. Rayner, G. K. Hui, J. Gor, R. K. Heenan, P. A. Dalby, S. J. Perkins. *J. Biol. Chem.*, **290**(13), 8420-8438, 2015. DOI: [10.1074/jbc.M114.631002](https://doi.org/10.1074/jbc.M114.631002)
+- H. Zhao, R. Ghirlando, C. Alfonso, *et al.* *PLoS One*, **10**(5), e0126420, 2015. DOI: [10.1371/journal.pone.0126420](https://doi.org/10.1371/journal.pone.0126420)
+- D. W. Wright and S. J. Perkins. *J. Appl. Crystallogr.*, **48**(3), 953-961, 2015. DOI: [10.1107/S1600576715007062](https://doi.org/10.1107/S1600576715007062)
+- E. Rodriguez, R. Nan, K. Li, J. Gor, and S. J. Perkins. *J. Biol. Chem.*, **290**(4), 2334-2350, 2015. DOI: [10.1074/jbc.M114.605691](https://doi.org/10.1074/jbc.M114.605691)
