@@ -47,3 +47,15 @@ title:  Impact
 - H. Zhao, R. Ghirlando, C. Alfonso, *et al.* *PLoS One*, **10**(5), e0126420, 2015. DOI: [10.1371/journal.pone.0126420](https://doi.org/10.1371/journal.pone.0126420)
 - D. W. Wright and S. J. Perkins. *J. Appl. Crystallogr.*, **48**(3), 953-961, 2015. DOI: [10.1107/S1600576715007062](https://doi.org/10.1107/S1600576715007062)
 - E. Rodriguez, R. Nan, K. Li, J. Gor, and S. J. Perkins. *J. Biol. Chem.*, **290**(4), 2334-2350, 2015. DOI: [10.1074/jbc.M114.605691](https://doi.org/10.1074/jbc.M114.605691)
+
+**2014**
+
+- W. Zhang and J. Chen. *J. Comput. Chem.*, **35**(23), 1682-1689, 2014. DOI: [10.1002/jcc.23675](https://doi.org/10.1002/jcc.23675)
+- Y. Peng, J. E. Curtis, X. Fang, S. A. Woodson. *Proc. Natl. Acad. Sci. USA*, **111**(48), 17134-17139, 2014. DOI: [10.1073/pnas.1410114111](https://doi.org/10.1073/pnas.1410114111)
+- S. Krueger, J. H. Shin, J. E. Curtis, K. A. Robinson, and Z. Kelman. *Proteins*, **82**(10), 2364-2374, 2014. DOI: [10.1002/prot.24598](https://doi.org/10.1002/prot.24598)
+- J. E. Curtis, H. Zhang, and H. Nanda. *Comput. Phys. Comm.*, **185**(11), 3010-3015, 2014. DOI: [10.1016/j.cpc.2014.07.006](https://doi.org/10.1016/j.cpc.2014.07.006)
+- Z. Zhang, J.-M. Y. Carrillo, S. Ahn, B. Wu, K. Hong, G. S. Smith, and C. Do. *Macromolecules*, **47**(16), 5808-5814, 2014. DOI: [10.1021/ma500613c](https://doi.org/10.1021/ma500613c)
+- L. E. Rayner, G. K. Hui, J. Gor, R. K. Heenan, P. A. Dalby, and S. J. Perkins. *J. Biol. Chem.*, **289**(30), 20740-20756, 2014. DOI: [10.1074/jbc.M114.572404](https://doi.org/10.1074/jbc.M114.572404)
+- N. J. Clark, M. Raththagala, N. T. Wright, E. A. Buenger, J. F. Schildbach, S. Krueger, J. E. Curtis. *J. Mol. Model.*, **20**(6), 2308, 2014. DOI: [10.1007/s00894-014-2308-3](https://doi.org/10.1007/s00894-014-2308-3)
+- M. C. Watson and J. E. Curtis. *Biophys. J.*, **106**(11), 2474-2482, 2014. DOI: [10.1016/j.bpj.2014.03.050](https://doi.org/10.1016/j.bpj.2014.03.050)
+- E. J. Yearly, P. D. Godfin, T. Perevozchikova, *et al.* *Biophys. J.*, **106**(8), 1763-1770, 2014. DOI: [10.1016/j.bpj.2014.02.036](https://doi.org/10.1016/j.bpj.2014.02.036)
