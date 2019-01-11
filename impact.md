@@ -59,3 +59,4 @@ title:  Impact
 - N. J. Clark, M. Raththagala, N. T. Wright, E. A. Buenger, J. F. Schildbach, S. Krueger, J. E. Curtis. *J. Mol. Model.*, **20**(6), 2308, 2014. DOI: [10.1007/s00894-014-2308-3](https://doi.org/10.1007/s00894-014-2308-3)
 - M. C. Watson and J. E. Curtis. *Biophys. J.*, **106**(11), 2474-2482, 2014. DOI: [10.1016/j.bpj.2014.03.050](https://doi.org/10.1016/j.bpj.2014.03.050)
 - E. J. Yearly, P. D. Godfin, T. Perevozchikova, *et al.* *Biophys. J.*, **106**(8), 1763-1770, 2014. DOI: [10.1016/j.bpj.2014.02.036](https://doi.org/10.1016/j.bpj.2014.02.036)
+- S. J. Perkins, K. W. Fung and S. Khan. *Front. Immunol.*, **5**, 126. DOI: [10.3389/fimmu.2014.00126](https://doi.org/10.3389/fimmu.2014.00126)
