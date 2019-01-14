@@ -60,3 +60,13 @@ title:  Impact
 - M. C. Watson and J. E. Curtis. *Biophys. J.*, **106**(11), 2474-2482, 2014. DOI: [10.1016/j.bpj.2014.03.050](https://doi.org/10.1016/j.bpj.2014.03.050)
 - E. J. Yearly, P. D. Godfin, T. Perevozchikova, *et al.* *Biophys. J.*, **106**(8), 1763-1770, 2014. DOI: [10.1016/j.bpj.2014.02.036](https://doi.org/10.1016/j.bpj.2014.02.036)
 - S. J. Perkins, K. W. Fung and S. Khan. *Front. Immunol.*, **5**, 126. DOI: [10.3389/fimmu.2014.00126](https://doi.org/10.3389/fimmu.2014.00126)
+
+**2013**
+
+- L. E. Rayner, N. Kadkhodayi-Kholghi, R. K. Heenan, J. Gor, P. A. Dalby, and S. J. Perkins. *J. Mol. Biol.*, **425**(5), 506-523, 2013. DOI: [10.1016/j.jmb.2012.11.019](https://doi.org/10.1016/j.jmb.2012.11.019)
+- S. Khan, F. W. Fung, E. Rodriguez, R. Patel, J. Gor, B. Mulloy, and S. J. Perkins. *J. Biol. Chem.*, **288**(39), 27737-27751, 2013. DOI: [10.1074/jbc.M113.492223](https://doi.org/10.1074/jbc.M113.492223)
+- E. Brookes, J. Pérez, B. Cardinali, A. Profumo, P. Vachette, and M. Rocco. *J. Appl. Crystallogr.*, **46**(6), 1823-1833, 2013. DOI: [10.1107/S0021889813027751](https://doi.org/10.1107/S0021889813027751)
+- N. J. Clark, H. Zhang, S. Krueger, H. J. Lee, R. R. Ketchem, B. Kerwin, S. R. Kanapuram, M. J. Treuheit, A. McAuley, and J. E. Curtis. *J. Phys. Chem B.*, **117**(45), 14029-14038, 2013. DOI: [10.1021/jp408710r](https://doi.org/10.1021/jp408710r)
+- K. L. Sarachan, J. E. Curtis, and S. Krueger. *J. Appl. Crystallogr.*, **46**, 1889-1893, 2013. DOI: [10.1107/S002188981302572](https://doi.org/10.1107/S002188981302572)
+- H. Zhang, S. Khodadadi, S. L. Fiedler, and J. E. Curtis. *J. Phys. Chem. Lett.*, **4**(19), 3325-3329, 2013. DOI: [10.1021/jz401406c](https://doi.org/10.1021/jz401406c)
+- M. C. Watson and J. E. Curtis. *J. Appl. Crystallogr.*, **46**, 1171-1177, 2013. DOI: [10.1107/S002188981301666X](https://doi.org/10.1107/S002188981301666X)
