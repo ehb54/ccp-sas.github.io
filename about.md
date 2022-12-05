@@ -3,8 +3,6 @@ layout: page
 title:  About
 ---
 
-<!DOCTYPE html>
-
 <head>
 
 <link rel="stylesheet" type="text/css" media="all" href="css/SiteStyle.css">
