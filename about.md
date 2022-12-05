@@ -18,20 +18,6 @@ title:  About
 
 <body>
 
-<!-- ADD PAGE SUBTITLE HERE - always start HeaderTitle with <br> -->
-<div id="pageHeader">
-	<div id="HeaderTitle"><br>About the project</div>
-</div>
-
-<div id="menuItem">
-	<a href="index.html">home</a>
-	<a href="about.html">about CCP-SAS</a> 	
-	<a href="use.html">software</a> 	
-	<a href="meetings.html">meetings/workshops</a>
-	<a href="resources.html">reports/resources</a>
-    <a href="contact.html">people</a>
-    <a href="impact.html">impact</a>
-</div>
 
 <div id="textContainer">
 
